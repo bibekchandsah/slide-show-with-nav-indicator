@@ -43,7 +43,7 @@ If you have any feedback, please reach out to us at <a href="https://bibek10550.
 
 ## Screenshots
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
-<img src="https://bibek10550.github.io/bibek10550/assets/images/porjects/slide-show-with-nav-indicator" alt="slide-show-with-nav-indicator"/>
+<img src="https://github.com/bibek10550/bibek10550/blob/main/assets/images/projects/slide-show-with-nav-indicator.png" alt="slide-show-with-nav-indicator"/>
 
 ## Logo
 <!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
